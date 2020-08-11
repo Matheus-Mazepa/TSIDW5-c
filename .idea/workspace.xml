@@ -24,6 +24,7 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.ruby.settings.RubyActiveModuleSdkConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -50,5 +51,9 @@
       <screen x="1920" y="0" width="2560" height="1080" />
     </state>
     <state x="2861" y="356" width="659" height="409" key="#com.intellij.fileTypes.FileTypeChooser/1920.0.2560.1080/0.27.1920.1053@1920.0.2560.1080" timestamp="1597105012789" />
+    <state x="2696" y="188" width="1007" height="737" key="SettingsEditor" timestamp="1597105500901">
+      <screen x="1920" y="0" width="2560" height="1080" />
+    </state>
+    <state x="2696" y="188" width="1007" height="737" key="SettingsEditor/1920.0.2560.1080/0.27.1920.1053@1920.0.2560.1080" timestamp="1597105500901" />
   </component>
 </project>
