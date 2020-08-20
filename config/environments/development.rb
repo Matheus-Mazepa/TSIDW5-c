@@ -67,3 +67,6 @@ Rails.application.configure do
     addrinfo.ipv4? ? res << IPAddr.new(addrinfo.ip_address).mask(24) : res
   end
 end
+
+ip = IPSocket.getaddress(Socket.gethostname)
+BetterErrors::Middleware.allow_ip! "#{ip}/16"
