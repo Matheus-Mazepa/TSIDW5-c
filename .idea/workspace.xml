@@ -23,14 +23,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fd6e55e6-a1eb-4176-a472-dda012e5f35c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/config/initializers/mailer.rb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Gemfile" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Gemfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/views/home/index.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/home/index.html.erb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/views/layouts/application.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/layouts/application.html.erb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/application.yml.example" beforeDir="false" afterPath="$PROJECT_DIR$/config/application.yml.example" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/routes.rb" beforeDir="false" afterPath="$PROJECT_DIR$/config/routes.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/models/admin.rb" beforeDir="false" afterPath="$PROJECT_DIR$/app/models/admin.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/seeds.rb" beforeDir="false" afterPath="$PROJECT_DIR$/db/seeds.rb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -108,10 +103,10 @@
     </state>
     <state x="437" y="157" width="900" height="722" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1597962623728" />
     <state x="2696" y="188" width="1007" height="737" key="SettingsEditor/1920.0.2560.1080/0.27.1920.1053@1920.0.2560.1080" timestamp="1597105500901" />
-    <state x="385" y="196" key="search.everywhere.popup" timestamp="1597772226209">
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1597963579029">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="385" y="196" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1597772226209" />
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1597963579029" />
     <state x="3289" y="259" width="672" height="678" key="search.everywhere.popup/1920.0.2560.1080/0.27.1920.1053@1920.0.2560.1080" timestamp="1597704074287" />
   </component>
 </project>
