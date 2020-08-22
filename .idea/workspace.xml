@@ -23,9 +23,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fd6e55e6-a1eb-4176-a472-dda012e5f35c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/app/assets/stylesheets/admins/application.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/assets/stylesheets/customizations/bootstrap.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/assets/stylesheets/shared/sidebar.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/controllers/admins/base_controller.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/javascript/packs/admins/application.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/views/layouts/admins/_footer.html.erb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/views/layouts/admins/_header.html.erb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/views/layouts/admins/_sidebar.html.erb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/views/layouts/admins/application.html.erb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/views/shared/_flash_messages.html.erb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db/schema.rb" beforeDir="false" afterPath="$PROJECT_DIR$/db/schema.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db/seeds.rb" beforeDir="false" afterPath="$PROJECT_DIR$/db/seeds.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/config/manifest.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/assets/config/manifest.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/stylesheets/config/tabler.scss" beforeDir="false" afterPath="$PROJECT_DIR$/app/assets/stylesheets/config/tabler.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/controllers/application_controller.rb" beforeDir="false" afterPath="$PROJECT_DIR$/app/controllers/application_controller.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/helpers/application_helper.rb" beforeDir="false" afterPath="$PROJECT_DIR$/app/helpers/application_helper.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/helpers/home_helper.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/initializers/assets.rb" beforeDir="false" afterPath="$PROJECT_DIR$/config/initializers/assets.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/routes.rb" beforeDir="false" afterPath="$PROJECT_DIR$/config/routes.rb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +59,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../project_official/cdms" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/app/views/layouts/admins" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -55,7 +70,15 @@
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.ruby.settings.RubyActiveModuleSdkConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/assets/stylesheets/shared" />
+      <recent name="$PROJECT_DIR$/app/assets/stylesheets" />
+      <recent name="$PROJECT_DIR$/app/assets/stylesheets/customizations" />
+      <recent name="$PROJECT_DIR$/app/views" />
+      <recent name="$PROJECT_DIR$/app/views/layouts" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/views/layouts/admins" />
       <recent name="$PROJECT_DIR$/config" />
     </key>
   </component>
@@ -103,10 +126,10 @@
     </state>
     <state x="437" y="157" width="900" height="722" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1597962623728" />
     <state x="2696" y="188" width="1007" height="737" key="SettingsEditor/1920.0.2560.1080/0.27.1920.1053@1920.0.2560.1080" timestamp="1597105500901" />
-    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1597963579029">
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1598100608993">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1597963579029" />
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1598100608993" />
     <state x="3289" y="259" width="672" height="678" key="search.everywhere.popup/1920.0.2560.1080/0.27.1920.1053@1920.0.2560.1080" timestamp="1597704074287" />
   </component>
 </project>
